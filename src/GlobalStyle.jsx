@@ -15,6 +15,7 @@ export const GlobalStyle = createGlobalStyle`
     color: #fff;
     position: fixed;
     font-weight: 700;
+    transition: all 0.8s;
     
   }
 
@@ -24,7 +25,7 @@ export const GlobalStyle = createGlobalStyle`
     color: #fff;
     font-weight: 700;
     position: fixed;
+    transition: all 0.8s;
   }
-
     
 `;
