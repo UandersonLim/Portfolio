@@ -11,6 +11,7 @@ import GeradorDeConselhos from "../../public/assets/GIFS/gerador-de-conselho.gif
 import Formulario from "../../public/assets/GIFS/formulario.gif";
 import XMEN from "../../public/assets/GIFS/xmen.gif";
 import MiniFatosHistoricos from "../../public/assets/GIFS/Animação.beckend.gif";
+import HistoricoIPCA from "../../public/assets/GIFS/API-Rest-full-node.gif";
 
 export const Dados = [
     {
@@ -115,6 +116,15 @@ export const Dados = [
         linguagem: "Node.JS",
         descricao: "Projeto desesvolvido com intuido de aprimorar á minha logíca de programação, e á utilização da ferramenta Node.JS",
         imagem: MiniFatosHistoricos,
+        link: "https://github.com/UandersonLim/Mini_jogo_fatos_historicos.git",
+    },
+    {
+        id: 14,
+        nome: "Histórico IPCA 2015 a 2023",
+        linguagem: "Node.JS",
+        descricao: "API desenvolvida com o padrão RESTful e Node.JS. O projeto acessa todo histórico de 2015 até maio de 2023 do IPCA, e você pode solicitar cálculos conforme o valor que deseja.",
+        imagem: HistoricoIPCA,
+        link: "https://github.com/UandersonLim/api-historico-ipca.git",
     },
 
 ]
