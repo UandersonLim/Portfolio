@@ -4,7 +4,7 @@ import Button_blue from "../../../public/assets/button_blank_blue.png";
 import button_green from "../../../public/assets/button_blank_green.png";
 import Sucesso from "../../../public/assets/icones-linguagens/sucesso.png";
 import Contact from "../../../public/assets/fale_comigo.png";
-import Image_Profile from "../../../public/assets/perfil.ico";
+import Image_Profile from "../../../public/assets/perfil.png";
 import Button_Home from "../../../public/assets/icones-linguagens/home-button.png";
 import Button_Project from "../../../public/assets/icones-linguagens/projects_dk.png"
 import { Link } from "react-router-dom";

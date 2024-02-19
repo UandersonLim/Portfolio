@@ -3,7 +3,7 @@ import { Header } from "../Home";
 import Button_blue from "../../../public/assets/button_blank_blue.png";
 import button_green from "../../../public/assets/button_blank_green.png";
 import Home from "../../../public/assets/icones-linguagens/home-button.png";
-import Image_Profile from "../../../public/assets/perfil.ico";
+import Image_Profile from "../../../public/assets/perfil.png";
 import Projects from "../../../public/assets/icones-linguagens/projects_dk.png";
 import { useState } from "react";
 import { filterRespondeSendButton } from "../../Services";
