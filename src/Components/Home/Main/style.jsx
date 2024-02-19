@@ -20,7 +20,7 @@ export const Main = styled.main`
 
 `;
 export const Box_text = styled.div`
-  width: 50%;
+  width: 60%;
   color: #fff;
 
   p {
