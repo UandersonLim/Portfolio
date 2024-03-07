@@ -13,9 +13,9 @@ const MainContent = (props) => {
                 <Link to="/projects">{props.projects}</Link>
             </Route>
             <ul className="contact">
-                <li><a href="https://www.linkedin.com/in/uandersondev/" target="_blank"><img src={props.linkedin}/></a></li>
-                <li><a href="https://github.com/UandersonLim" target="_blank"><img src={props.github}/></a></li>
-                <li><a href="https://wa.me/557591428306" target="_blank"><img src={props.whatApp}/></a></li>
+                <li><a href="https://www.linkedin.com/in/uandersondev/" target="_blank"><img src={props.linkedin} alt="imagem linkedin"/></a></li>
+                <li><a href="https://github.com/UandersonLim" target="_blank"><img src={props.github} alt="imagem GitHub"/></a></li>
+                <li><a href="https://wa.me/557591428306" target="_blank"><img src={props.whatApp} alt="imagem whatsApp"/></a></li>
             </ul>
         </Main>
     );

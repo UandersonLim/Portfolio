@@ -13,8 +13,8 @@ export const Home = () => {
   return (
     <>
       <Header
-        dark={<img src={Button_blue} />}
-        light={<img src={button_green} />}
+        dark={<img src={Button_blue} alt="icone botão azul"/>}
+        light={<img src={button_green} alt="alt icone botão verde" />}
         img={Projects}
         profile={Image_Perfil}
         text="Projetos"

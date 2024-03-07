@@ -12,8 +12,8 @@ export const Projetcs = (props) => {
     <>
         
         <Header
-          dark={<img src={Button_blue} />}
-          light={<img src={button_green} />}
+          dark={<img src={Button_blue} alt="icone botão azul"/>}
+          light={<img src={button_green} alt="icone botão verde"/>}
           img={Home}
           profile={Image_Perfil}
           text="Home"

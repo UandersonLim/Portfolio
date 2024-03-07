@@ -16,13 +16,13 @@ export const Header = (props) => {
       <Box_Header>
         <li className="Profile_image">
           <Link to="/">
-            <img src={props.profile} />
+            <img src={props.profile} alt="imagem perfil"/>
           </Link>
         </li>
         <List>
           <li>
             <Link to={props.route}>
-              <img src={props.img} />
+              <img src={props.img} alt="icone"/>
               <figcaption>{props.text}</figcaption>
             </Link>
           </li>
@@ -36,7 +36,7 @@ export const Header = (props) => {
           </li>
           <li>
             <Link to={props.routeButtonEnd}>
-              <img src={props.imgButtonEnd} />
+              <img src={props.imgButtonEnd} alt="icone"/>
               <figcaption>{props.textButtonEnd}</figcaption>
             </Link>
           </li>
