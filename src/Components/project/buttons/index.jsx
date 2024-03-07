@@ -20,7 +20,7 @@ export const Buttons = () => {
           onClick={() => setFilter("React.JS")}
           className={filter === "React.JS" ? "background_Button" : null}
         >
-          <img src={React} />
+          <img src={React} alt="icone react"/>
           React.JS
         </a>
         <a

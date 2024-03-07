@@ -12,7 +12,7 @@ export const Projetos = (props) => {
       </Box_imagem>
       <Description className="Box_descricoes">
         <a href={props.link} target="_blank">
-          <h1>{props.id === 8 ? <img src={IconeMaitenence}/> : <img src={Icone}/>}{props.name}</h1>
+          <h1>{props.id === 8 ? <img src={IconeMaitenence} alt="icone-manutenção"/> : <img src={Icone} alt="icone Link"/>}{props.name}</h1>
         </a>
         <p>{props.description}</p>
       </Description>
