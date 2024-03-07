@@ -15,6 +15,7 @@ export const Main = (props) => {
             description={projeto.descricao}
             image={projeto.imagem}
             link={projeto.link}
+            id={projeto.id}
           />
         ) : null
       )}

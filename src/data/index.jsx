@@ -1,7 +1,7 @@
 import Restaurante from "../../public/assets/GIFS/restaurante.gif";
 import JogoDaVelha from "../../public/assets/GIFS/jogo-da-velha.gif";
 import Filme from "../../public/assets/GIFS/filmes.gif";
-import Pokemons from "../../public/assets/GIFS/pokedex-axios.gif";
+import Pokemons from "../../public/assets/GIFS/layout-pokedex.gif";
 import AgenciaDesign from "../../public/assets/GIFS/agencia.gif";
 import Sorveteria from "../../public/assets/GIFS/sorveteria.gif";
 import Otica from "../../public/assets/GIFS/otica.gif";
@@ -72,11 +72,11 @@ export const Dados = [
     },
     {
         id: 8,
-        nome: "Template Ecommerce",
+        nome: "Em Manutenção",
         linguagem: "HTML-CSS-JS",
         descricao: "Site e-commerce de roupas infantis! Desenvolvemos esta plataforma com amor e cuidado, proporcionando uma experiência encantadora para pais e crianças explorarem juntos. Descubra a diversão e a praticidade de encontrar roupas adoráveis para os pequenos, tudo isso com apenas alguns cliques! 👶👕🎈",
         imagem: Ecommerce,
-        link: "https://uandersonlim.github.io/Loja-ecommerce/",
+        // link: "https://uandersonlim.github.io/Loja-ecommerce/",
     },
     {
         id: 9,
