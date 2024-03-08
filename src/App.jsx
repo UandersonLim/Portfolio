@@ -1,6 +1,6 @@
 import { GlobalStyle } from "./GlobalStyle";
 import { Connection_Routes } from "./Routes";
-import { Component_Button_Curriculum } from "./Components/Button_curriculum";
+// import { Component_Button_Curriculum } from "./Components/Button_curriculum";
 
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
     <>
     <GlobalStyle/>
     <Connection_Routes/>
-    <Component_Button_Curriculum/>
+    {/* <Component_Button_Curriculum/> */}
 
    
 

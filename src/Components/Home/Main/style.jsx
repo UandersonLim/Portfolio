@@ -57,27 +57,28 @@ export const Box_text = styled.div`
   }
 `;
 
-export const Route = styled.div`
-    display: flex;
-    gap: 5rem;
-    font-size: 2rem;
-    cursor: pointer;
+// export const Route = styled.div`
+//     display: flex;
+//     gap: 5rem;
+//     font-size: 2rem;
+//     cursor: pointer;
+//     background-color: #fff;
     
-    a{
-      color: #fff;
-    }
+//     a{
+//       color: #fff;
+//     }
 
-    a:hover{
-        border-bottom: 1px solid #fff;
-    }
+//     a:hover{
+//         border-bottom: 1px solid #fff;
+//     }
 
-    /* RESPONSIVE */
-    @media(max-width: 1200px){
-      font-size: 1.5rem;
-    }
+//     /* RESPONSIVE */
+//     @media(max-width: 1200px){
+//       font-size: 1.5rem;
+//     }
 
-    @media(max-width: 768px){
-      flex-direction: column;
-      gap: 2rem;
-    }
-`
+//     @media(max-width: 768px){
+//       flex-direction: column;
+//       gap: 2rem;
+//     }
+// `
