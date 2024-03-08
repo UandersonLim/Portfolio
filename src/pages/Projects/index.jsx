@@ -7,7 +7,7 @@ import Image_Perfil from "../../../public/assets/perfil.png";
 import { Buttons } from "../../Components/project/buttons";
 
 
-export const Projetcs = (props) => {
+export const Projetcs = () => {
   return (
     <>
         
