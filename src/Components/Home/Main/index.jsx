@@ -1,5 +1,4 @@
-import { Main, Box_text, Route } from "./style";
-import { Link } from "react-router-dom";
+import { Main, Box_text } from "./style";
 
 const MainContent = (props) => {
     return(
@@ -9,9 +8,7 @@ const MainContent = (props) => {
                 <br></br>
                 <p>{props.about}</p>
             </Box_text>
-            <Route>
-                <Link to="/projects">{props.projects}</Link>
-            </Route>
+
             <ul className="contact">
                 <li><a href="https://www.linkedin.com/in/uandersondev/" target="_blank"><img src={props.linkedin} alt="imagem linkedin"/></a></li>
                 <li><a href="https://github.com/UandersonLim" target="_blank"><img src={props.github} alt="imagem GitHub"/></a></li>
