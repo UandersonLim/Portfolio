@@ -98,5 +98,14 @@ export const ThemeBackground = styled.div`
     opacity: 0;
   }
   }
+
+
+  @media(max-width: 480px){
+
+    .square span, .square_light span{
+      display: none;
+      
+    }
+  }
   
 `;
