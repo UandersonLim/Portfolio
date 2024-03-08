@@ -1,17 +1,17 @@
-import Restaurante from "../../public/assets/GIFS/restaurannte.png";
-import JogoDaVelha from "../../public/assets/GIFS/jogo-da-velha.png";
-import Filme from "../../public/assets/GIFS/filmes.png";
-import Pokemons from "../../public/assets/GIFS/pokedex.png";
-import AgenciaDesign from "../../public/assets/GIFS/agencia.png";
-import Sorveteria from "../../public/assets/GIFS/sorveteria.png";
-import Otica from "../../public/assets/GIFS/otica.png";
-import Ecommerce from "../../public/assets/GIFS/ecommerce.png";
-import GitHub from "../../public/assets/GIFS/github.png";
-import GeradorDeConselhos from "../../public/assets/GIFS/gerador-de-conselho.png";
-import Formulario from "../../public/assets/GIFS/formulario.png";
-import XMEN from "../../public/assets/GIFS/x-men.png";
-import MiniFatosHistoricos from "../../public/assets/GIFS/Animação.beckend.gif";
-import HistoricoIPCA from "../../public/assets/GIFS/API-Rest-full-node.gif";
+import Restaurante from "../../public/assets/imagens/restaurannte.png";
+import JogoDaVelha from "../../public/assets/imagens/jogo-da-velha.png";
+import Filme from "../../public/assets/imagens/filmes.png";
+import Pokemons from "../../public/assets/imagens/pokedex.png";
+import AgenciaDesign from "../../public/assets/imagens/agencia.png";
+import Sorveteria from "../../public/assets/imagens/sorveteria.png";
+import Otica from "../../public/assets/imagens/otica.png";
+import Ecommerce from "../../public/assets/imagens/ecommerce.png";
+import GitHub from "../../public/assets/imagens/github.png";
+import GeradorDeConselhos from "../../public/assets/imagens/gerador-de-conselho.png";
+import Formulario from "../../public/assets/imagens/formulario.png";
+import XMEN from "../../public/assets/imagens/x-men.png";
+import MiniFatosHistoricos from "../../public/assets/imagens/Animação.beckend.gif";
+import HistoricoIPCA from "../../public/assets/imagens/API-Rest-full-node.gif";
 
 export const Dados = [
     {
