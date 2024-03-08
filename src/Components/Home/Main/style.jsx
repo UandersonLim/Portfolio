@@ -50,8 +50,9 @@ export const Box_text = styled.div`
   @media(max-width: 480px){
 
     p{
+      text-align: justify;
       font-size: 16px;
-      padding: 0 10px;
+      padding: 10px 24px;
     }
   }
 `;
