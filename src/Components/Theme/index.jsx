@@ -1,5 +1,4 @@
 import { ThemeBackground } from "./style";
-import { useState } from "react";
 
 export const ChangeTheme = (props) => {
 
