@@ -27,7 +27,7 @@ export const Dados = [
         id: 2,
         nome: "IPTV",
         linguagem: "React.JS",
-        descricao: "Site para apresentação de planos IPTV.",
+        descricao: "Cliente solicitou um site para apresentação do seu projeto de TV por assinatura IPTV.",
         imagem: Iptv,
         link: "https://primelink-tv.store/",
     },
