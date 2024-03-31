@@ -12,7 +12,7 @@ import Formulario from "../../public/assets/imagens/formulario.png";
 import XMEN from "../../public/assets/imagens/x-men.png";
 import MiniFatosHistoricos from "../../public/assets/imagens/Animação.beckend.gif";
 import HistoricoIPCA from "../../public/assets/imagens/API-Rest-full-node.gif";
-import Iptv from "../../public/assets/imagens/iptv.png";
+import Iptv from "../../public/assets/imagens/Iptv.png";
 
 export const Dados = [
     {
